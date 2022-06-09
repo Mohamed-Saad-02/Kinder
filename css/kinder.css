@@ -975,6 +975,9 @@ header nav .bars {
     cursor: pointer;
     transition: var(--main-transtion);
 }
+.blog .box button:hover {
+    background-color: var(--main-color-alt)
+}
 .contact {
     padding-top: var(--section-pading);
     padding-bottom: var(--section-pading);
